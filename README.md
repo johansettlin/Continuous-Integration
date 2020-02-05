@@ -4,6 +4,6 @@
 -ee333
 ööö
 dd
-ssss
+sssscc
 ccdd
 ccccss
