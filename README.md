@@ -5,6 +5,6 @@
 öööcceeecccää
 ddccfffssscc
 ccddcccsss
-ccccssääccc
+ccccssääcccxxx
 ccccddxxx
 xx
